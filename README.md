@@ -1,5 +1,5 @@
 # About Me
-
+[![](https://visitcount.itsvg.in/api?id=RahulKumar9&label=Profile%20Views&color=9&pretty=true)](https://visitcount.itsvg.in)
 - 👋 Hi, I’m [`Rahul Kumar`](https://therahulkumar9.vercel.app/).
 - 🛠 I craft digital solutions that make an impact.
 - 👀 My portfolio: [https://therahulkumar9.vercel.app](https://therahulkumar9.vercel.app/)
