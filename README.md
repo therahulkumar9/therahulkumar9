@@ -33,7 +33,7 @@
 - 🎯 Working on personal projects to apply classroom knowledge to real-world solutions
 - 🤝 Eager to collaborate on beginner-friendly open-source projects
 - 📈 Growing my skills in Python and modern web technologies
-- ✨ Enthusiastic about learning new technologies and building creative solutions
+- ✨ Enthusiastic about learning new technologies and building solutions
 
 ## 🔧 Tech Stack
 
