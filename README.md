@@ -1,96 +1,101 @@
-<div align="center">
+<h1 align="center">
+  Hi <img src="https://github.com/therahulkumar9/therahulkumar9/blob/3d793db043fe0a1c2ce5f5999a5bb75c390fe183/hand.gif" width="30px"> I'm 
+  <a href="https://therahulkumar9.vercel.app/">Rahul Kumar</a>
+</h1>
 
-# 👋 Hi, I'm [Rahul Kumar](https://therahulkumar9.vercel.app/)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Developer%20|%20Creator%20|%20Innovator&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30"/>
 
-<div>
-  <a href="https://therahulkumar9.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:therahulkumar.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/therahulkumar9/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/therahulkumar9/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://twitter.com/therahulkumar9" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</div>
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=RahulKumar9&label=Profile%20Views&color=9&pretty=true)](https://visitcount.itsvg.in)
-
-</div>
-
-## 🚀 About Me
-
-- 📚 Computer Science student passionate about technology and innovation
-- 💻 Building strong foundations in C/C++ programming and algorithms
-- 🌐 Learning web development through hands-on projects
-- 🔥 Currently diving deep into the **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
-- 🎯 Working on personal projects to apply classroom knowledge to real-world solutions
-- 🤝 Eager to collaborate on beginner-friendly open-source projects
-- 📈 Growing my skills in Python and modern web technologies
-- ✨ Enthusiastic about learning new technologies and building solutions
-
-## 🔧 Tech Stack
-
-### Languages & Frameworks
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,django,flask,html,css,js,react,nodejs,express,mongodb" alt="Programming Languages & Frameworks" />
-</div>
-
-### Development Tools
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Tools & Technologies" />
-</div>
-
-### Documentation & Markup
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=md,html" alt="Markup Languages" />
-</div>
-
-## 💻 Coding Profiles
-<div align="left">
-  <a href="https://leetcode.com/therahulkumar9" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/therahulkumar9" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks"/>
-  </a>
-  <a href="https://codeforces.com/profile/therahulkumar9" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="CodeForces"/>
-  </a>
-  <a href="https://www.codingninjas.com/studio/profile/therahulkumar" target="_blank">
-    <img src="https://img.shields.io/badge/Coding_Ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" alt="Coding Ninjas"/>
-  </a>
-</div>
-
-## 📊 GitHub Stats
+<h2>🚀 Connect with Me</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=therahulkumar9&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF" alt="GitHub Stats" />
-  
-  <img src="https://streak-stats.demolab.com?user=therahulkumar9&theme=dark&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF00&sideLabels=00FF00&dates=FFFFFF" alt="GitHub Streak" width="500"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therahulkumar9&theme=dark&hide_border=true&background=0D1117&title_color=00FF00&text_color=FFFFFF&layout=compact&card_width=500" alt="Top Languages" />
+  <a href="https://therahulkumar.dev/">
+    <img src="https://img.icons8.com/color/48/000000/portfolio.png" alt="Website" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/therahulkumar9">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.x.com/therahulkumar9">
+    <img src="https://img.icons8.com/color/48/000000/twitterx--v1.png" alt="Twitter" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/therahulkumar9/">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/therahulkumar9">
+    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" width="40" height="40"/>
+  </a>
+   <a href="mailto:therahulkumar.dev@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Mail" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
 </div>
 
-## 📈 Activity Graph
+<h2>🧐 More About Me</h2>
+
+<ul>
+  <li>📚 <strong>CS Student</strong> | Passionate about tech & innovation.</li>
+  <li>💻 Proficient in <strong>C/C++</strong> | Learning <strong>MERN Stack</strong></li>
+  <li>📈 Expanding skills in <strong>Python</strong> and modern web tech.</li>
+  <li>🎯 Building projects to solve real-world problems.</li>
+  <li>🤝 <strong>Open to collaborating with you</strong>.</li>
+  <li>📄 Check out my <a href="https://drive.google.com/file/d/1aq2jWo_FwGCMmIF2VqkhihuO8pGjtuTJ/view?usp=sharing" target="_blank">resume</a>.</li>
+  <li>📫 Reach me on <a href="https://www.linkedin.com/in/therahulkumar9" target="_blank">LinkedIn</a> or <a href="https://twitter.com/therahulkumar9" target="_blank">Twitter</a>.</li>
+</ul>
+
+<h2>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px"> Tech Stack
+</h2>
 
 <div align="center">
-
-[![Rahul's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=therahulkumar9&theme=github-dark&hide_border=true&bg_color=0D1117&line=00FF00&point=FFFFFF&title_color=FFFFFF)](https://github.com/therahulkumar9)
-
+  <a href="https://www.javascript.com" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="45px"/></a>&nbsp;&nbsp;
+  <a href="https://react.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" height="45px"/></a>&nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" height="45px"/></a>&nbsp;&nbsp;
+  <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="45px"/></a>&nbsp;&nbsp;
+  <a href="https://expressjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=express" alt="Express" height="45px"/></a>&nbsp;&nbsp;
+  <a href="https://www.mongodb.com" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="45px"/></a>&nbsp;&nbsp;
+  <a href="https://firebase.google.com" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" height="45px"/></a>&nbsp;&nbsp;
+  <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="Python" height="45px"/></a>&nbsp;&nbsp;
+  <a href="https://flask.palletsprojects.com" target="_blank"><img src="https://skillicons.dev/icons?i=flask" alt="Flask" height="45px"/></a>&nbsp;&nbsp;
+  <a href="https://isocpp.org" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="45px"/></a>&nbsp;&nbsp;
+  <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" height="45px"/></a>&nbsp;&nbsp;
+  <a href="https://www.markdownguide.org" target="_blank"><img src="https://skillicons.dev/icons?i=md" alt="Markdown" height="45px"/></a>
 </div>
 
----
+### 🏆 Coding Profiles
 
 <div align="center">
+  <a href="https://leetcode.com/therahulkumar9">
+    <img height="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/100/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://auth.geeksforgeeks.org/user/therahulkumar9">
+    <img height="40" src="https://img.icons8.com/color/100/000000/GeeksforGeeks.png" alt="GeeksforGeeks"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/therahulkumar9">
+    <img height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/100/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="CodeForces"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.codingninjas.com/studio/profile/therahulkumar">
+    <img height="40" src="https://img.icons8.com/color/100/000000/ninja.png" alt="Coding Ninjas"/>
+  </a>
+</div>
 
-### 💭 Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h2 align="center">⚡ Current GitHub Stats ⚡</h2>
+<br>
+<div align="center">
+  <img width=380 src="https://streak-stats.demolab.com/?user=therahulkumar9&count_private=true&theme=react&border_radius=10" alt="GitHub Streak Stats"/>
+  <img width=360 src="https://github-readme-stats.vercel.app/api?username=therahulkumar9&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Readme Stats" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therahulkumar9&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Most Used Languages" />
+</div>
 
+<br/>
+
+<h2 style="color:#87CEEB; font-family: 'Arial', sans-serif; font-weight: bold; text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);">📊 GitHub Activity 📊</h2>
+
+<a href="https://github.com/therahulkumar9" target="_blank">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=therahulkumar9&theme=github-dark&hide_border=true&bg_color=0D1117&line=87CEEB&point=FFFFFF&title_color=FFFFFF" alt="Rahul's GitHub Activity Graph" style="border: 3px solid white; border-radius: 15px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);" />
+</a>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8B" alt="Thanks" />
 </div>
