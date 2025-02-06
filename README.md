@@ -20,7 +20,7 @@
   <a href="https://www.instagram.com/therahulkumar9/">
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
   </a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/therahulkumar9">
+  <a href="https://www.youtube.com/@therahulkumar9">
     <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" width="40" height="40"/>
   </a>
    <a href="mailto:therahulkumar.dev@gmail.com">
