@@ -85,6 +85,20 @@
 </div>
 
 <br/>
+<h2 align="center" style="color:#00bfff; font-family: 'Arial', sans-serif;">
+  🚀 Visitor Count
+</h2>
+
+<p align="center">
+  <img 
+    src="https://profile-counter.glitch.me/therahulkumar9/count.svg" 
+    alt="Visitor Count" 
+    height="40" 
+    style="border: 2px solid #00bfff; padding: 6px; border-radius: 8px;" 
+  />
+</p>
+
+<br/>
 
 <h2 style="color:#87CEEB; font-family: 'Arial', sans-serif; font-weight: bold; text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);">📊 GitHub Activity 📊</h2>
 
