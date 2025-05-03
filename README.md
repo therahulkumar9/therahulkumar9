@@ -8,7 +8,7 @@
 <h2>🚀 Connect with Me</h2>
 
 <div align="center">
-  <a href="https://therahulkumar.dev/">
+  <a href="https://therahulkumar.dev/portfolio">
     <img src="https://img.icons8.com/color/48/000000/portfolio.png" alt="Website" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/therahulkumar9">
